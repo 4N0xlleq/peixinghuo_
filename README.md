@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark](https://github.com/4N0xlleq/My-Second-Website)">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark">
-
-</p>
-
 ---
 
 ## 🌐 Contact Me
