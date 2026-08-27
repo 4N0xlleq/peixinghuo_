@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm peixinghuo_
+# 👋 Hello, peixinghuo_
 
 ### Developer • Designer • Gamer
 
@@ -23,8 +23,7 @@
 
 <p align="center">
 
-<!-- โลโก้ GitHub แบบ SVG -->
-<img src="https://jsdelivr.net" alt="GitHub Logo" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode">
 
 </p>
 
