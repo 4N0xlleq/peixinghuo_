@@ -37,8 +37,4 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
-</a>
-
 </p>
