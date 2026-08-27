@@ -4,7 +4,7 @@
 
 ### Developer • Designer • Gamer
 
-<img src="https://your-image-url.com/banner.png" width="100%">
+<img src="SuaMizi.jpg" width="100%">
 
 </div>
 
